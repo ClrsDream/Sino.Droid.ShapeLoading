@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<resources>
+  <color name="sino_shapeloading_triangle">#72d572</color>
+  <color name="sino_shapeloading_circle">#738ffe</color>
+  <color name="sino_shapeloading_rect">#e84e40</color>
+  <color name="sino_shapeloading_view_bg">#00000000</color>
+  <color name="sino_shapeloading_shadow">#bdbdbd</color>
+</resources>
