@@ -11,4 +11,4 @@ Visual Studio 2015 + Xamarin 4.0.0.1717
 https://github.com/zzz40500/android-shapeLoadingView
 
 #示例图片
-![](https://github.com/Xamarin-Cn/ShapeLoading/blob/master/img/1.gif)
+![](https://raw.githubusercontent.com/CSharpCross/Sino.Droid.ShapeLoading/master/img/1.gif)
